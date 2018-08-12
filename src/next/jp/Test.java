@@ -1,3 +1,4 @@
+package next.jp;
 
 public class Test {
 
