@@ -3,7 +3,11 @@ package next.jp;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
+		// メッセージを表示します
+		System.out.println("hello world");
+		/*
+		 * このような記号で囲めば
+		 */
 
 	}
 
