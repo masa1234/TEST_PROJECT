@@ -5,14 +5,7 @@ public class Test {
 	public static void main(String[] args) {
 		// メッセージを表示します
 		System.out.println("hello world");
-		/*
-		 * + 2つの数値の和を求める
-		 * - 2つの数値の差を求める
-		 * * 2つの数値の積を求める
-		 * / 2つの数値の商を求める　右辺が０の場合、ArithmetecException例外がスローされる
-		 * % 2つの数値の余りを求める
-		 * instanceof 左辺のオブジェクトが右辺のクラスのインスタンスであれば真
-		 */
+
 		int numberA = 10;
 		int numberB = 20;
 		int numberC = 0;
